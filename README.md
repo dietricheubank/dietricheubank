@@ -36,25 +36,25 @@ A public technical case study documenting a two-node local AI platform, includin
 </td>
 <td width="50%" valign="top">
 
-### [Technology Portfolio](https://github.com/dietricheubank/deubank-mws.github.io)
+### [Technology Portfolio](https://github.com/dietricheubank/dietricheubank.github.io)
 
 **Architecture · Leadership · Applied AI**
 
 A public home for selected technology projects and the principles behind them. The portfolio includes a roadmap for future open-source examples and reusable leadership tools.
 
-[Explore the portfolio source →](https://github.com/dietricheubank/deubank-mws.github.io)
+[Explore the portfolio source →](https://github.com/dietricheubank/dietricheubank.github.io)
 
 </td>
 </tr>
 </table>
 
-### [Project Priority Studio](https://github.com/dietricheubank/deubank-mws.github.io/tree/main/tools/priority-scoring)
+### [Project Priority Studio](https://github.com/dietricheubank/dietricheubank.github.io/tree/main/tools/priority-scoring)
 
 **Project portfolio governance · Weighted decision support · Open tool**
 
 A free, configurable project scoring model with five weighted criteria, automatic priority ranking, and CSV export. Includes a Python reference implementation and automated test suite.
 
-[Open the scoring tool](https://dietricheubank.github.io/deubank-mws.github.io/tools/priority-scoring/) · [Read the source](https://github.com/dietricheubank/deubank-mws.github.io/tree/main/tools/priority-scoring)
+[Open the scoring tool](https://dietricheubank.github.io/tools/priority-scoring/) · [Read the source](https://github.com/dietricheubank/dietricheubank.github.io/tree/main/tools/priority-scoring)
 
 ## Technology & practice areas
 
@@ -83,7 +83,7 @@ Modern workplace services · Endpoint management · IT service management · Tec
 | **Enterprise AI agent patterns** | Human-in-the-loop workflows with explicit approval and auditability |
 | **Technology leadership playbook** | Practical templates for service metrics, PMO delivery, governance, and decisions |
 
-These are **planned public projects**, not released tools. See the [project roadmap](https://github.com/dietricheubank/deubank-mws.github.io/blob/main/PROJECT_ROADMAP.md).
+These are **planned public projects**, not released tools. See the [project roadmap](https://github.com/dietricheubank/dietricheubank.github.io/blob/main/PROJECT_ROADMAP.md).
 
 ## How I approach technology
 
