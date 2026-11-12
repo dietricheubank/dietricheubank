@@ -48,6 +48,14 @@ A public home for selected technology projects and the principles behind them. T
 </tr>
 </table>
 
+### [Project Priority Studio](https://github.com/dietricheubank/deubank-mws.github.io/tree/main/tools/priority-scoring)
+
+**Project portfolio governance · Weighted decision support · Open tool**
+
+A free, configurable project scoring model with five weighted criteria, automatic priority ranking, and CSV export. Includes a Python reference implementation and automated test suite.
+
+[Open the scoring tool](https://dietricheubank.github.io/deubank-mws.github.io/tools/priority-scoring/) · [Read the source](https://github.com/dietricheubank/deubank-mws.github.io/tree/main/tools/priority-scoring)
+
 ## Technology & practice areas
 
 **AI and infrastructure**
