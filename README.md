@@ -48,13 +48,21 @@ A public home for selected technology projects and the principles behind them. T
 </tr>
 </table>
 
-### [Project Priority Studio](https://github.com/dietricheubank/dietricheubank.github.io/tree/main/tools/priority-scoring)
+### [Project Priority Studio 2.0](https://dietricheubank.github.io/tools/priority-scoring/v2.html)
 
-**Project portfolio governance · Weighted decision support · Open tool**
+**Portfolio governance · Weighted decisions · Capacity planning**
 
-A free, configurable project scoring model with five weighted criteria, automatic priority ranking, and CSV export. Includes a Python reference implementation and automated test suite.
+Interactive project scoring, benefit-versus-effort visualization, dependency-aware shortlisting, CSV export, and a printable executive brief. Uses fictional examples and clearly documented assumptions.
 
-[Open the scoring tool](https://dietricheubank.github.io/tools/priority-scoring/) · [Read the source](https://github.com/dietricheubank/dietricheubank.github.io/tree/main/tools/priority-scoring)
+[Launch tool](https://dietricheubank.github.io/tools/priority-scoring/v2.html) · [Source and methodology](https://github.com/dietricheubank/dietricheubank.github.io/tree/main/tools/priority-scoring)
+
+### [AI Operations Approval Demo](https://dietricheubank.github.io/demos/ai-ops/)
+
+**AI workflow patterns · Safety controls · Human approval**
+
+An interactive synthetic incident-response walkthrough illustrating explicit approval and an audit trail without any real system changes.
+
+[Try the demo](https://dietricheubank.github.io/demos/ai-ops/) · [Browse leadership templates](https://dietricheubank.github.io/leadership/)
 
 ## Technology & practice areas
 
