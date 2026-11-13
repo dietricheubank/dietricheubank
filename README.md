@@ -24,9 +24,9 @@ I lead and build technology services with an emphasis on **reliability, measurab
 
 | Project | What it demonstrates | Explore |
 |:---|:---|:---|
-| **PMO First Principles** | Ten-lesson practical project management course, knowledge checks, worksheets, and an eight-domain self-assessment | [Course](https://dietricheubank.github.io/pmo-first-principles/) · [Source](https://github.com/dietricheubank/pmo-first-principles) |
-| **Technology Scorecard** | Direction-aware KPI measures and documented, synthetic executive reporting examples | [Repository](https://github.com/dietricheubank/Technology-Scorecard) |
-| **IT Investment Optimizer** | Exact small-portfolio selection within budgets and dependencies, with testable Python logic | [Repository](https://github.com/dietricheubank/it-investment-optimizer) |
+| **PMO First Principles** | Ten-lesson practical project management course, knowledge checks, worksheets, and an eight-domain self-assessment | [Course](https://dietricheubank.github.io/pmo-first-principles/) · [Workflow](https://github.com/dietricheubank/pmo-first-principles/blob/main/docs/first-principles-workflow.md) · [Source](https://github.com/dietricheubank/pmo-first-principles) |
+| **Technology Scorecard** | Direction-aware KPI measures and documented, synthetic executive reporting examples | [Demo](https://dietricheubank.github.io/demos/technology-scorecard/) · [Repository](https://github.com/dietricheubank/Technology-Scorecard) |
+| **IT Investment Optimizer** | Exact small-portfolio selection within budgets and dependencies, with testable Python logic | [Demo](https://dietricheubank.github.io/demos/investment-optimizer/) · [Repository](https://github.com/dietricheubank/it-investment-optimizer) |
 | **Modern Workplace Toolkit** | Endpoint lifecycle evidence checks from request through secure retirement | [Repository](https://github.com/dietricheubank/modern-workplace-toolkit) |
 | **GX10 Experiment** | Multi-node local AI inference, architecture, and operational lessons | [Case study](https://github.com/dietricheubank/GX10Experment) |
 | **Project Priority Studio 2.0** | Browser-based weighted scoring, effort/benefit visualization, dependency-aware shortlist, CSV export | [Try it](https://dietricheubank.github.io/tools/priority-scoring/v2.html) |
