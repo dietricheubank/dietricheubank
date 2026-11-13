@@ -26,7 +26,7 @@ I lead and build technology services with an emphasis on **reliability, measurab
 
 Connect enterprise strategy, portfolio decisions, modern workplace architecture, delivery and service measurement through a fictional, interactive technology organization scenario.
 
-[Launch the lab](https://dietricheubank.github.io/lab/) · [Operating model diagram](https://dietricheubank.github.io/assets/operating-model.svg) · [Modern workplace reference architecture](https://dietricheubank.github.io/assets/modern-workplace-reference.svg)
+[Launch the lab](https://dietricheubank.github.io/lab/) · [Clinical endpoint modernization simulation](https://dietricheubank.github.io/lab/clinical-endpoints/) · [Operating model diagram](https://dietricheubank.github.io/assets/operating-model.svg) · [Modern workplace reference architecture](https://dietricheubank.github.io/assets/modern-workplace-reference.svg)
 
 ## Featured projects
 
