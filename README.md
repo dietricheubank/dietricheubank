@@ -2,111 +2,58 @@
 
 # Dietrich Eubank
 
-### Technology Leadership · Applied AI · Modern Workplace
+### Technology Leadership · Enterprise IT · Applied AI
 
-**Connecting enterprise technology strategy with hands-on engineering.**
+**Connecting technology strategy, organizational capability, and hands-on engineering.**
 
-[![GitHub Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dietricheubank?tab=repositories)
-[![GX10 Experiment](https://img.shields.io/badge/AI_Lab-Read_Case_Study-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/dietricheubank/GX10Experment)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-0F766E?style=for-the-badge)](https://dietricheubank.github.io/)
+[![Projects](https://img.shields.io/badge/Explore-Open_Source-234B65?style=for-the-badge)](https://dietricheubank.github.io/projects/)
+[![Learning](https://img.shields.io/badge/Learn-PMO_First_Principles-185C54?style=for-the-badge)](https://dietricheubank.github.io/pmo-first-principles/)
 
 </div>
 
 ---
 
-## About me
+I lead and build technology services with an emphasis on **reliability, measurable outcomes, useful governance, and developing people**. This account brings together public engineering experiments and original tools informed by my work across modern workplace technology, IT delivery, and AI infrastructure.
 
-I'm a technology leader focused on modern workplace services, enterprise IT operations, and practical artificial intelligence. I enjoy bridging **strategy and execution**: setting direction, developing teams, and getting close enough to the technology to understand what makes systems secure, reliable, and useful.
+![Portfolio map connecting leadership, technology operations, and applied AI](assets/portfolio-map.svg)
 
-My interests span healthcare technology, automation, local LLM infrastructure, engineering operations, and technology governance.
+<sub>[Explore the portfolio map and architecture narrative](docs/portfolio-map.md). Diagram is illustrative, not a live infrastructure export.</sub>
 
-## Featured work
+## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What it demonstrates | Explore |
+|:---|:---|:---|
+| **PMO First Principles** | Ten-lesson practical project management course, knowledge checks, worksheets, and an eight-domain self-assessment | [Course](https://dietricheubank.github.io/pmo-first-principles/) · [Source](https://github.com/dietricheubank/pmo-first-principles) |
+| **Technology Scorecard** | Direction-aware KPI measures and documented, synthetic executive reporting examples | [Repository](https://github.com/dietricheubank/Technology-Scorecard) |
+| **IT Investment Optimizer** | Exact small-portfolio selection within budgets and dependencies, with testable Python logic | [Repository](https://github.com/dietricheubank/it-investment-optimizer) |
+| **Modern Workplace Toolkit** | Endpoint lifecycle evidence checks from request through secure retirement | [Repository](https://github.com/dietricheubank/modern-workplace-toolkit) |
+| **GX10 Experiment** | Multi-node local AI inference, architecture, and operational lessons | [Case study](https://github.com/dietricheubank/GX10Experment) |
+| **Project Priority Studio 2.0** | Browser-based weighted scoring, effort/benefit visualization, dependency-aware shortlist, CSV export | [Try it](https://dietricheubank.github.io/tools/priority-scoring/v2.html) |
 
-### [GX10 Experiment](https://github.com/dietricheubank/GX10Experment)
+## Working demonstrations
 
-**Distributed AI · NVIDIA GB10 · Reliability**
+- **[AI Operations Approval Demo](https://dietricheubank.github.io/demos/ai-ops/)** — a **synthetic** incident, explicit human approval, and simulated remediation; no live operational connection.
+- **[Forge Engineering Case Study](https://dietricheubank.github.io/case-studies/forge.html)** — architectural decisions and reliability lessons from local AI exploration.
+- **[IT Leadership Playbook](https://dietricheubank.github.io/leadership/)** — editable templates for PMO work, operational scorecards, RACI, architecture decisions, and 90-day planning.
+- **[Technology Insights](https://dietricheubank.github.io/insights/)** — short field notes about governance, observability and operating reviews.
 
-A public technical case study documenting a two-node local AI platform, including model serving, operational resilience, observability, troubleshooting, and lessons learned.
+## Areas of practice
 
-[Explore the case study →](https://github.com/dietricheubank/GX10Experment)
+**Enterprise technology:** Modern workplace services · Endpoint management · Collaboration platforms · IT service management · Technology governance · Project and portfolio management
 
-</td>
-<td width="50%" valign="top">
+**Engineering and applied AI:** Python · Linux · Docker · NVIDIA GB10 · Local LLM inference · Prometheus · Grafana · Automation patterns
 
-### [Technology Portfolio](https://github.com/dietricheubank/dietricheubank.github.io)
+**Leadership and delivery:** Operating models · Practical frameworks · Program enablement · Cross-functional execution · Measurable service outcomes
 
-**Architecture · Leadership · Applied AI**
+## Design principles
 
-A public home for selected technology projects and the principles behind them. The portfolio includes a roadmap for future open-source examples and reusable leadership tools.
+> Start with the outcome. Make decisions explainable. Build for operations. Develop people. Keep humans accountable for consequential actions.
 
-[Explore the portfolio source →](https://github.com/dietricheubank/dietricheubank.github.io)
+The software here is intentionally scoped and documented. Public examples use fictional information, and tests demonstrate the stated behavior—not production readiness.
 
-</td>
-</tr>
-</table>
+## Connect
 
-### [Project Priority Studio 2.0](https://dietricheubank.github.io/tools/priority-scoring/v2.html)
+**[Portfolio website](https://dietricheubank.github.io/)** · **[Public repositories](https://github.com/dietricheubank?tab=repositories)**
 
-**Portfolio governance · Weighted decisions · Capacity planning**
-
-Interactive project scoring, benefit-versus-effort visualization, dependency-aware shortlisting, CSV export, and a printable executive brief. Uses fictional examples and clearly documented assumptions.
-
-[Launch tool](https://dietricheubank.github.io/tools/priority-scoring/v2.html) · [Source and methodology](https://github.com/dietricheubank/dietricheubank.github.io/tree/main/tools/priority-scoring)
-
-### [AI Operations Approval Demo](https://dietricheubank.github.io/demos/ai-ops/)
-
-**AI workflow patterns · Safety controls · Human approval**
-
-An interactive synthetic incident-response walkthrough illustrating explicit approval and an audit trail without any real system changes.
-
-[Try the demo](https://dietricheubank.github.io/demos/ai-ops/) · [Browse leadership templates](https://dietricheubank.github.io/leadership/)
-
-## Technology & practice areas
-
-**AI and infrastructure**
-
-![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_Spark-76B900?logo=nvidia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-
-**Enterprise platforms and leadership**
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-5E5E5E?logo=microsoft&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoftteams&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-Modern workplace services · Endpoint management · IT service management · Technology strategy · Governance · Organizational change
-
-## What I'm exploring next
-
-| Area | Direction |
-| --- | --- |
-| **AI operations tooling** | Safe, reusable model health checks, diagnostics, and observability examples |
-| **Enterprise AI agent patterns** | Human-in-the-loop workflows with explicit approval and auditability |
-| **Technology leadership playbook** | Practical templates for service metrics, PMO delivery, governance, and decisions |
-
-These are **planned public projects**, not released tools. See the [project roadmap](https://github.com/dietricheubank/dietricheubank.github.io/blob/main/PROJECT_ROADMAP.md).
-
-## How I approach technology
-
-> **Start with the outcome. Build for operability. Keep people accountable for consequential decisions.**
-
-I value solutions that are understandable, supportable, secure, and measurable—not simply impressive in a demonstration.
-
----
-
-<div align="center">
-
-**Interested in applied AI, enterprise technology, or building resilient IT services?**
-
-[Browse my repositories](https://github.com/dietricheubank?tab=repositories)
-
-<sub>Personal projects and perspectives only. Nothing here represents an employer or discloses private organizational systems.</sub>
-
-</div>
+<sub>Personal projects and perspectives. No employer endorsement or private organizational information is implied. Some educational tools are working starters, not certified training or enterprise-approved applications.</sub>
