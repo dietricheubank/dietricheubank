@@ -28,6 +28,14 @@ Connect enterprise strategy, portfolio decisions, modern workplace architecture,
 
 [Launch the lab](https://dietricheubank.github.io/lab/) · [Clinical endpoint modernization simulation](https://dietricheubank.github.io/lab/clinical-endpoints/) · [Operating model diagram](https://dietricheubank.github.io/assets/operating-model.svg) · [Modern workplace reference architecture](https://dietricheubank.github.io/assets/modern-workplace-reference.svg)
 
+### [Clinical Modernization Executive Dashboard](https://dietricheubank.github.io/lab/clinical-dashboard/)
+
+Explore fictional clinical endpoint rollout indicators, readiness gates, deployment capacity and operational health. This is a planning demonstration—not a real clinical program report.
+
+### [Unified Communications Migration Simulator](https://dietricheubank.github.io/lab/uc-migration/)
+
+Model a fictional Teams Phone migration using user waves, telephone-number readiness, licensing, call testing, emergency-calling checks and support acceptance.
+
 ## Featured projects
 
 | Project | What it demonstrates | Explore |
