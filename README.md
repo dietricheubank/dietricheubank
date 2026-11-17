@@ -12,8 +12,6 @@ I lead Modern Work Services at St. Jude Children’s Research Hospital, with a f
 | [Project Priority Studio 2.0](https://dietricheubank.github.io/tools/priority-scoring/v2.html) | Compare proposed investments, weigh benefits against effort, and build a shortlist within capacity and dependency constraints. |
 | [Forge engineering case study](https://dietricheubank.github.io/case-studies/forge.html) | Explore the architecture and reliability tradeoffs of running local AI inference across two nodes. |
 
-I also built [PMO First Principles](https://dietricheubank.github.io/pmo-first-principles/), a ten-lesson course with exercises, reusable templates, and a team self-assessment.
-
 ## Featured projects
 
 | Project | What it demonstrates | Explore |
@@ -24,12 +22,13 @@ I also built [PMO First Principles](https://dietricheubank.github.io/pmo-first-p
 | **Modern Workplace Toolkit** | Endpoint lifecycle evidence checks from request through secure retirement | [Repository](https://github.com/dietricheubank/modern-workplace-toolkit) |
 | **GX10 Experiment** | Multi-node local AI inference, architecture, and operational lessons | [Case study](https://github.com/dietricheubank/GX10Experment) |
 
-## Working demonstrations
+See how these projects fit together in the [portfolio map](docs/portfolio-map.md).
+
+## More to explore
 
 - **[AI Operations Approval Demo](https://dietricheubank.github.io/demos/ai-ops/)** — a **synthetic** incident, explicit human approval, and simulated remediation; no live operational connection.
-- **[Forge Engineering Case Study](https://dietricheubank.github.io/case-studies/forge.html)** — architectural decisions and reliability lessons from local AI exploration.
 - **[IT Leadership Playbook](https://dietricheubank.github.io/leadership/)** — editable templates for PMO work, operational scorecards, RACI, architecture decisions, and 90-day planning.
-- **[Technology Insights](https://dietricheubank.github.io/insights/)** — short field notes about governance, observability and operating reviews.
+- **[Technology Insights](https://dietricheubank.github.io/insights/)** — short field notes about governance, observability, and operating reviews.
 
 ## Areas of practice
 
