@@ -20,7 +20,7 @@ I lead Modern Work Services at St. Jude Children’s Research Hospital, with a f
 | **Technology Scorecard** | Direction-aware KPI measures and documented, synthetic executive reporting examples | [Demo](https://dietricheubank.github.io/demos/technology-scorecard/) · [Repository](https://github.com/dietricheubank/Technology-Scorecard) |
 | **IT Investment Optimizer** | Exact small-portfolio selection within budgets and dependencies, with testable Python logic | [Demo](https://dietricheubank.github.io/demos/investment-optimizer/) · [Repository](https://github.com/dietricheubank/it-investment-optimizer) |
 | **Modern Workplace Toolkit** | Endpoint lifecycle evidence checks from request through secure retirement | [Repository](https://github.com/dietricheubank/modern-workplace-toolkit) |
-| **GX10 Experiment** | Multi-node local AI inference, architecture, and operational lessons | [Case study](https://github.com/dietricheubank/GX10Experment) |
+| **GX10 Experiment** | Multi-node local AI inference, architecture, and operational lessons | [Case study](https://github.com/dietricheubank/GX10Experiment) |
 
 See how these projects fit together in the [portfolio map](docs/portfolio-map.md).
 
