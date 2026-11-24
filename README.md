@@ -1,10 +1,20 @@
 # Dietrich Eubank
 
-I lead Modern Work Services at St. Jude Children’s Research Hospital, with a focus on reliable endpoint and collaboration services. Previously, I directed IT portfolio management at The Ohio State University.
+I direct Modern Work Services at St. Jude Children’s Research Hospital. My teams manage the PCs clinicians use, the platforms that provision Windows and Apple devices, and the calling and collaboration services staff depend on. Previously, I directed IT portfolio management at The Ohio State University.
 
 [Portfolio](https://dietricheubank.github.io/) · [LinkedIn](https://www.linkedin.com/in/dietrich-eubank-83043810/) · [Open-source projects](https://dietricheubank.github.io/projects/)
 
-## Start here
+## Engineering work I lead at St. Jude
+
+- **Clinical workstations.** I lead the move to full Windows PCs for clinical workflows. Clinic stations and care stations have different requirements. A rollout decision depends on whether the configuration works for the people using it and whether support can take ownership.
+- **Endpoint platforms.** My scope includes Windows provisioning with Autopilot, device management with Intune and Configuration Manager, and Apple enrollment and management with Apple Business Manager and Jamf. One recurring question is whether device records in ServiceNow reflect what is actually deployed.
+- **Calling and collaboration.** I lead services spanning Teams Phone, telecom, and audiovisual systems. Moving a phone number is one part of a migration. The team also has to validate calling and give the service desk a clear handoff.
+
+## Explore the engineering
+
+The public projects below use fictional scenarios. In the [Modern Workplace Toolkit](https://github.com/dietricheubank/modern-workplace-toolkit), you can trace one endpoint decision from [Python policy logic](https://github.com/dietricheubank/modern-workplace-toolkit/blob/main/policies.py) to [tests](https://github.com/dietricheubank/modern-workplace-toolkit/blob/main/tests/test_policies.py). A missing patch record and a recorded failure produce distinct results.
+
+## Interactive projects and case studies
 
 | Project | What you can explore |
 | --- | --- |
@@ -30,18 +40,4 @@ See how these projects fit together in the [portfolio map](docs/portfolio-map.md
 - **[IT Leadership Playbook](https://dietricheubank.github.io/leadership/)** — editable templates for PMO work, operational scorecards, RACI, architecture decisions, and 90-day planning.
 - **[Technology Insights](https://dietricheubank.github.io/insights/)** — short field notes about governance, observability, and operating reviews.
 
-## Areas of practice
-
-**Enterprise technology:** Modern workplace services · Endpoint management · Collaboration platforms · IT service management · Technology governance · Project and portfolio management
-
-**Engineering and applied AI:** Python · Linux · Docker · NVIDIA GB10 · Local LLM inference · Prometheus · Grafana · Automation patterns
-
-**Leadership and delivery:** Operating models · Practical frameworks · Program enablement · Cross-functional execution · Measurable service outcomes
-
-## Design principles
-
-> Start with the outcome. Make decisions explainable. Build for operations. Develop people. Keep humans accountable for consequential actions.
-
-The software here is intentionally scoped and documented. Public examples use fictional information, and tests demonstrate the stated behavior—not production readiness.
-
-<sub>Personal projects and perspectives. Public scenarios use fictional data.</sub>
+<sub>Personal projects and perspectives.</sub>
