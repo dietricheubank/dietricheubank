@@ -1,6 +1,6 @@
 # Dietrich Eubank
 
-I direct Modern Work Services at St. Jude Children’s Research Hospital. My teams manage the PCs clinicians use, the platforms that provision Windows and Apple devices, and the calling and collaboration services staff depend on. Previously, I directed IT portfolio management at The Ohio State University.
+I direct Modern Work Services at St. Jude Children’s Research Hospital. My teams manage the PCs clinicians use, the platforms that provision Windows and Apple devices, and two distinct service areas: enterprise voice and workplace collaboration/AV. Previously, I directed IT portfolio management at The Ohio State University.
 
 [Portfolio](https://dietricheubank.github.io/) · [LinkedIn](https://www.linkedin.com/in/dietrich-eubank-83043810/) · [Open-source projects](https://dietricheubank.github.io/projects/)
 
@@ -8,7 +8,10 @@ I direct Modern Work Services at St. Jude Children’s Research Hospital. My tea
 
 - **Clinical workstations.** I lead the move to full Windows PCs for clinical workflows. Clinic stations and care stations have different requirements. A rollout decision depends on whether the configuration works for the people using it and whether support can take ownership.
 - **Endpoint platforms.** My scope includes Windows provisioning with Autopilot, device management with Intune and Configuration Manager, and Apple enrollment and management with Apple Business Manager and Jamf. One recurring question is whether device records in ServiceNow reflect what is actually deployed.
-- **Calling and collaboration.** I lead services spanning Teams Phone, telecom, and audiovisual systems. Moving a phone number is one part of a migration. The team also has to validate calling and give the service desk a clear handoff.
+- **Voice services and Teams Calling.** Our telecom team manages enterprise calling, including the migration of staff phone numbers to Teams Phone. The work includes number assignment, call validation, and the handoff to support.
+- **Collaboration and audiovisual (AV) services.** A separate team supports the platforms and room technology people use to meet and work together. For a hybrid meeting, that means people in the room and online can hear each other, see shared content, and participate.
+
+Matt Helm leads both teams within Modern Work Services.
 
 ## Explore the engineering
 
